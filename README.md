@@ -8,7 +8,7 @@
 
 ### $ WHOAMI 
 - 💬 Augusto Souza
-- 🛠 Entusiata Devops
+- 🛠 Entusiasta Devops
 - 🥇 2x AWS Certificate "Solutions Architect and Developer"
 - 💻 site reliability engineer
 - ☁️  Cloud Computing
